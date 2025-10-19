@@ -1,0 +1,16 @@
+{
+    "id": "nimsi",
+    "name": "Nimsi Mod",
+    "author": [ "Nimsi" ],
+    "description": "The mod with stuff, stuff and more stuff! ",
+    "prefix": "nimsi",
+    "main_file": "main.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)",
+        "ChDp (>=1.0.0)",
+        "Talisman (>=2.2.0a)"
+    ],
+    "version": "1.0.0",
+    "iconImage": "icons/modicon.png"
+}
